@@ -14,12 +14,10 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My current research interests span [#CompSocSci](https://en.wikipedia.org/wiki/Computational_social_science#:~:text=Computational%20social%20science%20is%20the,simulate%2C%20and%20analyze%20social%20phenomena.) and [#ICT4D](https://ictd.org/). Specifically, I'm interested in misinformation, social media and information flow in online communities. I'm currently interning at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) under [Anirban Sen](https://www.cse.iitd.ac.in/~anirban/) and [Joyojeet Pal](https://joyojeet.people.si.umich.edu/) (UMich Ann Arbor). I'm also studying quantitative features of social networks and computer-mediated communication with [Debayan Gupta](https://debayangupta.com). Previously, I’ve been a part of the [MPhasis Lab](https://ashoka.edu.in/ML2CT) (under [Mahavir Jhawar](https://sites.google.com/site/homeofmahavir/Home) and [Subhashis Banerjee](https://www.cse.iitd.ac.in/~suban/)) and [BharatSim](https://www.thoughtworks.com/engineering-research/bharatsim) (under [Debayan Gupta](https://debayangupta.com)).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated magna cum laude from [AshokaUniv](https://www.ashoka.edu.in) with a Gold Medal in Computer Science. Beyond academics, I’m a competent artist, photographer, archer and an incompetent pianist.
