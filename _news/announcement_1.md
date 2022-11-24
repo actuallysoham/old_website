@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-22 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Graduated with the CS Gold Medal, Service Excellence, Undergraduate Research Excellence and a Special Recognition for Outstanding Contribution in Computer Science.
