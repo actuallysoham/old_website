@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-04-01
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started [CANDID](https://ml2ct.ashoka.edu.in/en/candid/) - a new research group at [Ashoka](https://ashoka.edu.in/) for studying social networks online

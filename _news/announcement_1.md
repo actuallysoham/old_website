@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-01
+date: 2022-06-17
 inline: true
 ---
 
-Graduated with the CS Gold Medal, Service Excellence, Undergraduate Research Excellence and a Special Recognition for Outstanding Contribution in Computer Science.
+Graduated from [Ashoka University](https://www.ashoka.edu.in) with the CS Gold Medal, Service Excellence, Undergraduate Research Excellence and a Special Recognition for Outstanding Contribution in Computer Science.
