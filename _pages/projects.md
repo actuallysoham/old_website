@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: gallery
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: This is a curated collection of pictures of people and places from recent travels and experiences. Feel free to use any, just let me know if you do!
+nav: true
 nav_order: 2
-display_categories: [themes]
+display_categories: [photography]
 horizontal: false
 ---
 
