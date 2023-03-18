@@ -7,7 +7,7 @@ importance: 3
 category: photography
 ---
 
-[Tanvi](https://www.linkedin.com/in/tanvi-roy/) is a software developer. We met at Ashoka and have been dating since Jan 24, 2020.
+[Tanvi](https://www.linkedin.com/in/tanvi-roy/) is a software developer. We met at Ashoka and have been dating since Jan 23, 2020.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
