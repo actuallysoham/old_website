@@ -9,6 +9,8 @@ nav_order: 5
 
 ## Teaching
 
+- **Software Debugging (Spring 2023)**<br/>
+  Prof Sudheendra Hangal Chatterjee [[syllabus](https://sites.google.com/ashoka.edu.in/cs2422/)]
 - **Computer Organisation and Systems (Monsoon 2021)**<br/>
   Prof Soumyottam Chatterjee [[syllabus](https://sites.google.com/ashoka.edu.in/cs1216)]
 - **Foundations of Computer Programming (Spring 2021)**<br/>
