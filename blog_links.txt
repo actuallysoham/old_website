@@ -1,0 +1,19 @@
+Indian Journalists on Twitter and their Politician Footprint
+date: 2022-11-14 17:39:00
+description: Soham De, Joyojeet Pal
+redirect: https://joyojeet.people.si.umich.edu/journalists
+
+title: The Discursive Value of Military Support for Indian Politicians on Twitter
+date: 2022-03-10 17:39:00
+description: Soham De, Agrima Seth, Joyojeet Pal
+redirect: https://joyojeet.people.si.umich.edu/military/
+
+title: Drawing Lines - The HijabBan discourse on Twitter
+date: 2022-02-24 17:39:00
+description: Soham De, Anmol Panda, Joyojeet Pal
+redirect: https://joyojeet.people.si.umich.edu/hijab/
+
+title: Language, Polarization, and Provocative Speech in the Popularity of Journalists
+date: 2022-02-24 17:39:00
+description: Soham De, Joyojeet Pal
+redirect: https://joyojeet.people.si.umich.edu/indian-journalists-twitter/
