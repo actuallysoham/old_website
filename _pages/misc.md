@@ -1,20 +1,22 @@
 ---
 layout: page
 permalink: /misc/
-title: miscellaneous
-description: Teaching assistantships & talks (to be updated)
+title: teaching + talks
+description: Teaching assistantships & talks
 nav: true
 nav_order: 5
 ---
 
 ## Teaching
 
+- **IMT 573: Data Science I (Autumn 2023)**<br/>
+  University of Washington | Prof Martin Saveski [[syllabus](https://myplan.uw.edu/course/#/courses/IMT573)]
 - **Software Debugging (Spring 2023)**<br/>
-  Prof Sudheendra Hangal Chatterjee [[syllabus](https://sites.google.com/ashoka.edu.in/cs2422/)]
+  Ashoka University | Prof Sudheendra Hangal [[syllabus](https://sites.google.com/ashoka.edu.in/cs2422/)]
 - **Computer Organisation and Systems (Monsoon 2021)**<br/>
-  Prof Soumyottam Chatterjee [[syllabus](https://sites.google.com/ashoka.edu.in/cs1216)]
+  Ashoka University | Prof Soumyottam Chatterjee [[syllabus](https://sites.google.com/ashoka.edu.in/cs1216)]
 - **Foundations of Computer Programming (Spring 2021)**<br/>
-  Prof Debayan Gupta [[syllabus](../assets/pdf/FCPinfo.pdf)]
+  Ashoka University | Prof Debayan Gupta [[syllabus](../assets/pdf/FCPinfo.pdf)]
 
 ## Talks/ Workshops
 
