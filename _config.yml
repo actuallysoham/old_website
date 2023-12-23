@@ -6,7 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Soham
 middle_name: 
 last_name: De
-email: actuallysoham@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Soham's academic homepage.
 footer_text: >
@@ -68,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: actuallysoham # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: actuallysoham # your Twitter handle
-mastodon_username: hci.social/@soham # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: #your mastodon instance+username in the format instance.tld/@username
 linkedin_username: soham-de # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: i1ad6GmN4uoCyour #Google Scholar ID
@@ -111,9 +110,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Social Media and Society # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: An ill-maintained list of easily-acessible articles
+blog_description: Random musings, may or maybe be related to research
 permalink: /blog/:year/:title/
 
 # Pagination
