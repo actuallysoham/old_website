@@ -29,3 +29,15 @@
 "Young":
   - firstname: ["Meg"]
     url: https://datasociety.net/people/meg-young/
+
+"Sen":
+  - firstname: ["Anirban"]
+    url: https://www.ashoka.edu.in/profile/anirban-sen/
+
+"Saveski":
+  - firstname: ["Martin"]
+    url: https://faculty.washington.edu/msaveski/
+
+"Bakker":
+  - firstname: ["Michiel"]
+    url: https://www.miba.dev/
