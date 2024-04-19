@@ -9,10 +9,16 @@
 @string{current = {current, ongoing,}}
 
 
-@article{de2023cn,
-  title={Improving online factchecking using LLM-driven consensus},
+@inproceedings{de2023cn,
+  abbr={IC2S2 2024},
+  preview={ic2s2.jpeg},
+  title={Enhancing Crowd-Sourced Fact-Checking Using LLM-Driven Consensus},
   author={De, Soham and Bakker, Michiel and Saveski, Martin},
-  abstract={Under submission, title altered.},
+  abstract={One of the main limitations of Community Notes—Twitter’s crowd-sourced fact-checking system—is that it typically takes too long for raters to reach the consensus needed for a note to be attached to a misleading post. We propose speeding up the process by generating super-notes, LLM-generated fact-checking notes that (a) combine key information spread across several existing notes, (b) use language likely to drive consensus among diverse raters, and (c) follow first-order principles of effective fact-checking. Our contributions include a pipeline to generate such supernotes that involves a custom reward-model trained on historical Community Notes data that predicts how a user would rate any note with 70% accuracy. We also outline ongoing and future experiments using human-subjects to evaluate the effectiveness of such an intervention in the wild.},
+  booktitle={The 10th International Conference on Computational Social Science},
+  year={2024},
+  publisher=acm,
+  pdf={../papers/ic2s224_cnllm.pdf},
   metatype={ongoing}
 }
 
@@ -23,7 +29,7 @@
   author={Sen, Anirban and De, Soham and Pal, Joyojeet},
   abstract={The structure and mechanics of organized outreach around certain issues, such as in propaganda networks, is constantly evolving on social media. We collected tweets on two propaganda events and one non-propaganda event with varying degrees of organized messaging. We then perform a comparative analysis of the user and network characteristics of social media networks around these events and find clearly distinguishable traits across events. We find that influential entities like prominent politicians, digital influencers, and mainstream media prefer to engage more with social media events with lesser degree of propaganda while avoiding events with high degree of propaganda, which are mostly sustained by lesser known but dedicated micro-influencers. We also find that network communities of events with high degree of propaganda are significantly centralized with respect to the influence exercised by their leaders. The methods and findings of this study can pave the way for modeling and early detection of other propaganda events, using their user and
 community characteristics.},
-  booktitle={The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing},
+  booktitle={Proceedings of the 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing},
   year={2024},
   publisher=acm,
   pdf={../papers/cscw_networks.pdf},
@@ -59,7 +65,7 @@ community characteristics.},
   metatype={published}
 }
 
-@article{de2023ssr,
+@inproceedings{de2023ssr,
   title={Sustaining Discourse in a Rumour Network on Twitter},
   preview={ic2s2.jpeg},
   author={De, Soham and Sen, Anirban and Pal, Joyojeet},
@@ -77,9 +83,10 @@ community characteristics.},
   despite falling off the news cycle, the community remains active on Twitter, driven by three
   strategies – managing a hierarchical outreach structure, navigating platform algorithms, and
   managing the discourse around the topic carefully.},
-  ear={2023},
+  year={2023},
   publisher=acm,
   selected={false},
+  booktitle={The 9th International Conference on Computational Social Science},
   pdf={../papers/ic2s2_ssr.pdf},
   metatype={published}
 }
