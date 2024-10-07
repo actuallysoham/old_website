@@ -111,7 +111,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Random musings, may or maybe be related to research
+blog_description: Random musings, most likely not related to research
 permalink: /blog/:year/:title/
 
 # Pagination
